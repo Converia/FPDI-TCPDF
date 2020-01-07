@@ -1,4 +1,8 @@
 # FPDI-TCPDF
+
+** DO NOT USE THIS TEMPORARY FORK **
+- use upstream instead `Setasign/FPDI-TCPDF`
+
 A kind of metadata package for Composer with fixed dependencies for the latest versions of FPDI and TCPDF.
 
 ## Installation with [Composer](https://packagist.org/packages/setasign/fpdi-tcpdf)
